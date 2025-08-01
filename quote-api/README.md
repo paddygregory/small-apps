@@ -1,7 +1,7 @@
 This is the backend for my quote generator web app.
 It uses FastAPI to query to a PostGreSQL database hosted on render.. 
 
-➡️➡️ HOSTED AT: https://paddygregory.com/ ⬅️⬅️
+➡️➡️ HOSTED AT: https://quotes.paddymgregory.com ⬅️⬅️
 
 Features Include:
 
